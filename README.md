@@ -1,6 +1,6 @@
 # Hi, I'm Shweta Prasad 👋
 
-**Business Analyst | Analytics & GenAI Enthusiast | MS Business Analytics (STEM) — Sacred Heart University**
+Business Analyst & GenAI Enthusiast | SQL · Power BI · Python · Prompt Engineering | MS Business Analytics (STEM)
 
 I turn messy business problems into clean, decision-ready insights — with a testing mindset, a love for data storytelling, and growing hands-on experience in GenAI and cloud analytics.
 
