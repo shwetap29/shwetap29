@@ -38,44 +38,73 @@ My path: **Software QA Engineer → IT Service Desk Analytics → Business Analy
 
 ## 🚀 Featured Projects
 
-### 🧠 Prompt Engineering for Business Analysts
-> A practical library of reusable AI prompt templates built for real BA workflows.
-- BRD writing, user story generation, UAT planning, stakeholder communication, data insight summaries
-- Includes before/after examples showing how AI-assisted prompts save time and improve quality
-- [→ View repo](https://github.com/shwetap29/prompt-engineering-for-ba)
+### 🧠 [Prompt Engineering for Business Analysts](https://github.com/shwetap29/prompt-engineering-for-ba)
+> A practical, beginner-to-advanced library of AI prompt templates for real BA & DA workflows.
 
-### 👗 Fashion Analytics: Thanksgiving Luxury Handbag Leaders *(Power BI + Excel)*
-> Dashboard and scoring model explaining brand leadership drivers with QA checks for metric consistency.
-
-### 🎫 Okta Ticket Analytics *(Excel + SQL)*
-> Analyzed 2,000+ IT tickets; built KPI views tracking volume, SLA compliance, and repeat-incident trends.
-
-### 🏏 IPL Data Visualization 2008–2020 *(Python + Tableau)*
-> EDA and dashboards covering team/player performance trends across 12 seasons.
+- Covers: BRD drafting · User stories · KPI narratives · Stakeholder emails · UAT test cases
+- Organised from basics → advanced techniques (chain-of-thought, persona prompting, iterative refinement)
+- Tools: Claude · ChatGPT · Microsoft Copilot
 
 ---
 
-## 📂 What You'll Find in My Repos
+### 🚚 [Target Supply Chain Analytics](https://github.com/shwetap29/target-supplychain-Analytics)
+> CCC benchmarking, demand forecasting & supply chain finance analysis for Target Corporation.
 
-- ✅ Clean datasets with documentation and assumptions
+- Cash Conversion Cycle analysis · Vendor performance · Inventory optimisation
+- Tools: Python (pandas) · Jupyter · Excel
+
+---
+
+### 🏏 [IPL Data Visualization 2008–2020](https://github.com/shwetap29/Ipl-Datavisualization-Visualization)
+> Exploratory data analysis and Tableau dashboards across 12 IPL seasons.
+
+- Team & player performance trends · Win probability · Match outcome drivers
+- Tools: Python · Tableau
+
+---
+
+## 📂 What You'll Find Across My Repos
+
+- ✅ Clean datasets with documented assumptions
 - ✅ SQL queries with validation logic and edge case handling
 - ✅ Power BI / Tableau dashboards with business narrative
-- ✅ Python notebooks with data cleaning, EDA, and recommendations
+- ✅ Python notebooks: data cleaning → EDA → insights → recommendations
 - ✅ Prompt templates for AI-assisted BA work
-- ✅ A QA-style approach throughout: test cases, data checks, traceability
+- ✅ A QA mindset throughout: data checks, traceability, test cases
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Company | Period |
+|---|---|---|
+| Business Analyst | Barigo Holdings | Feb 2026 – Present |
+| Business Analyst — Data & Reporting | Vision Square Inc. | Apr 2025 – Jan 2026 |
+| IT Service Desk Analytics (Grad Assistant) | Sacred Heart University | Jul – Dec 2024 |
+| Teaching Assistant — DBMS & GSCA | Sacred Heart University | Jan – Jun 2024 |
+| Software Engineer (QA) | EasyRewardz Software Services | Mar 2022 – Jul 2022 |
+| Associate Software Engineer | Accenture | Oct 2019 – Mar 2020 |
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **M.S. Business Analytics (STEM)** — Sacred Heart University, Fairfield, CT *(Dec 2024)*
-- **B.E. Computer Science** — LNCT, India *(Jun 2019)*
-- **Databricks Fundamentals Accreditation** *(2025)*
-- **Excel Essential Training** — Microsoft / LinkedIn Learning
+- 🎓 **M.S. Business Analytics (STEM)** — Sacred Heart University, CT *(Dec 2024)*
+- 🎓 **B.E. Computer Science** — LNCT, India *(Jun 2019)*
+- 📜 **Databricks Fundamentals Accreditation** *(2025)*
+- 📜 **Excel Essential Training** — Microsoft / LinkedIn Learning
 
 ---
 
 ## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shweta%20Prasad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shweta-prasad-47407bb7/)
+[![Email](https://img.shields.io/badge/Email-prasadshweta29%40gmail.com-red?style=flat&logo=gmail)](mailto:prasadshweta29@gmail.com)
+
+---
+
+*Open to BA · Data Analyst · Healthcare Analyst · QA Analyst roles in NYC/NJ*  
+*If you're working at the intersection of AI, analytics, and business — let's connect! ✨*
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shweta-prasad-47407bb7/)
 - 📧 prasadshweta29@gmail.com
